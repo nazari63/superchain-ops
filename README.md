@@ -124,3 +124,4 @@ inherited by the `SignFromJson.s.sol` or `NestedSignFromJson.s.sol` file where t
 is implemented. This function must make assertions on the post-transaction state of the network
 interaction. It will run each time that a signer generates a signature, giving additional automation
 on validating the correctness of the network interaction.
+This project is a demonstration of blockchain technology and smart contract integration.
